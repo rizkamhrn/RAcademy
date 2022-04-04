@@ -1,2 +1,3 @@
 # RAcademy
-Addons odoo untuk tugas training hashmicro
+
+RAcademy merupakan sebuah module/addons yang dapat mengelola sistem pembelajaran mulai dari pengelolaan data student, teacher, materi pembelajaran dan lain sebagainya
