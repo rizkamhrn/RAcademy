@@ -2,3 +2,4 @@ id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_racademy_course,racademy_course.racademy_course,model_racademy_course,base.group_user,1,1,1,1
 access_racademy_course_category,racademy_course_category.racademy_course_category,model_racademy_course_category,base.group_user,1,1,1,1
 access_racademy_session,racademy_session.racademy_session,model_racademy_session,base.group_user,1,1,1,1
+access_racademy_attendee,racademy_attendee.racademy_attendee,model_racademy_attendee,base.group_user,1,1,1,1
