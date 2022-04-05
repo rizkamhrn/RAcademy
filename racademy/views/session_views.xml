@@ -77,12 +77,6 @@
         <field name="type">ir.actions.act_window</field>
         <field name="res_model">racademy.session</field>
         <field name="view_mode">tree,form</field>
-            <p class="oe_view_nocontent_create">
-                Create new Session...
-            </p><p>
-                <!-- More details about what a user can do with this object will be OK --> 
-            </p>
-        </field>
     </record>
 
     <!-- racademy.session search view -->
@@ -111,7 +105,7 @@
     <!-- This Menu Item must have a parent and an action -->
     <menuitem id="racademy_session_menu_act" 
         name="Session" 
-        parent="racademy_academy_menu_root" 
+        parent="racademy_menu_root" 
         action="racademy_session_action" 
         sequence="10"/>
 </odoo>
