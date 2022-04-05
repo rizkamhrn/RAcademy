@@ -1,12 +1,12 @@
-<!-- <?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <odoo>
         <report
-            id="action_report_arisnew_session"
-            model="arisnew.session"
+            id="action_report_racademy_session"
+            model="racademy.session"
             string="Session Report"
             report_type="qweb-html"
-            name="arisnew_academy.report_session"
-            file="arisnew_academy.report_session"
+            name="racademy.report_session"
+            file="racademy.report_session"
         />
 
         <template id="report_session" name="report_session">
@@ -41,4 +41,4 @@
                 </t>
             </t>
         </template>
-</odoo> -->
+</odoo>
